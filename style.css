@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    text-align:center;
+    width: 1000px;
+    background-color: lemonchiffon;
+    border: 5px solid black;
+    margin:50px 25%;
+}
+h4{
+    color:purple;
+}
+p{
+    color:gray
+}
